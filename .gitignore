@@ -1,0 +1,6 @@
+.VSCode/
+.vscode/
+*.dep
+*.o
+.nfs*
+ircserv
